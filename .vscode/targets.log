@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jan 15 00:51:23 2023
+# Make data base, printed on Sun Jan 15 13:08:07 2023
 
 # Variables
 
@@ -59,7 +59,7 @@ RUBY_HOME = /usr/local/rvm/rubies/default
 # environment
 MAVEN_HOME = /usr/local/sdkman/candidates/maven/current
 # environment
-GITHUB_TOKEN = ghu_iGSTgw415udOqfqD451MCkoucQ7uQ94A99wt
+GITHUB_TOKEN = ghu_96ruCS4mxkXLkmZ43uSjRdbNqJbn7S2m8BFj
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # environment
@@ -109,7 +109,7 @@ NUGET_XMLDOC_MODE = skip
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-62b5a62d-6189-4a03-a0ee-676a74c93497.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-61bd1e7a-a72a-414e-8c5b-a7c6a9c97fee.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -155,7 +155,7 @@ HOME = /home/codespace
 # environment
 LESSCLOSE = /usr/bin/lesspipe %s %s
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 NVM_CD_FLAGS = 
 # automatic
@@ -197,7 +197,7 @@ JAVA_HOME = /usr/local/sdkman/candidates/java/current
 # default
 MAKE_VERSION := 4.2.1
 # environment
-GITHUB_CODESPACE_TOKEN = AN5DCLQQLRETV33W2QFMP6TDYPXVFANCNFSM4ACR5QDQ
+GITHUB_CODESPACE_TOKEN = AN5DCLWRKBGJYSF3TWNJP4TDYSRPVANCNFSM4ACR5QDQ
 # environment
 USER = codespace
 # environment
@@ -261,7 +261,7 @@ LC_ALL = C
 # environment
 INTERNAL_VSCS_TARGET_URL = https://westeurope.online.visualstudio.com
 # environment
-GITHUB_REPOSITORY = opensource-spraakherkenning-nl/asr_nl
+GITHUB_REPOSITORY = Laurenz1977/asr_nl
 # automatic
 ^F = $(notdir $^)
 # environment
@@ -278,7 +278,6 @@ rvm_loaded_flag = 1
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
 RAILS_DEVELOPMENT_HOSTS = .githubpreview.dev,.preview.app.github.dev,.app.github.dev
- 
 # environment
 LANG = C
 # environment
@@ -286,6 +285,7 @@ ContainerVersion = 12
 # environment
 MY_RUBY_HOME = /usr/local/rvm/rubies/ruby-3.1.3
 # variable set hash-table stats:
+ 
 # Load=136/1024=13%, Rehash=0, Collisions=13/161=8%
 
 # Pattern-specific Variable Values
@@ -352,6 +352,6 @@ docker-dev:
 # strcache performance: lookups = 29 / hit rate = 20%
 # hash-table stats:
 # Load=23/8192=0%, Rehash=0, Collisions=1/29=3%
-# Finished Make data base on Sun Jan 15 00:51:23 2023
+# Finished Make data base on Sun Jan 15 13:08:07 2023
 
  
